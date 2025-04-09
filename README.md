@@ -4,11 +4,6 @@
 
 This project focuses on analyzing mental health data to uncover key factors influencing stress levels and treatment-seeking behavior across different demographics and occupations. By leveraging big data techniques and machine learning models, the aim is to generate actionable insights for mental health professionals and policymakers.
 
-- **Course**: ALY6110 - Big Data and Data Management
-- **Institution**: Northeastern University
-- **Instructor**: Dr. Hema Seshadri
-- **Team Members**: Neha Save, Akshay Prabhu, Jiahui Zhou, Bhavesh Sathavalli
-
 ---
 
 ## 📊 Dataset
@@ -32,6 +27,9 @@ This project focuses on analyzing mental health data to uncover key factors infl
 - Stress vs. time spent indoors
 - Relationship between mental health history and family background
 - Created interactive Tableau dashboards
+
+🖼️ **Dashboard Preview**:  
+![Mental Health Dashboard](./ALY6110_Group5_Tableau_Dashboard.png)
 
 ---
 
